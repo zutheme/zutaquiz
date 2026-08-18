@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.DQOulFGV.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/question-bank.md","filePath":"guide/question-bank.md"}'),n={name:"guide/question-bank.md"};function o(s,r,i,c,d,p){return t(),a("div")}const m=e(n,[["render",o]]);export{_ as __pageData,m as default};
